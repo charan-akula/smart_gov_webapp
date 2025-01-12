@@ -5,6 +5,7 @@ Smart Gov is a web application designed specifically for the people of Andhra Pr
 
 ## Key Features
 - OCR for Automatic Profile Creation: Users can upload their Aadhar card, and the app automatically extracts relevant information using OCR to streamline profile creation.
+- Automatic Recomendations as per details filled in profile
 - Personalized Scheme Suggestions: Based on the user's profile, the app suggests relevant government schemes.
 - Chatbot for Scheme Access: A user-friendly chatbot that interacts with users to provide scheme information and answer questions.
 - Scheme Notification via Email: Once a profile is created, users can receive notifications about relevant schemes directly to their registered email.
@@ -30,6 +31,13 @@ Smart Gov is a web application designed specifically for the people of Andhra Pr
 - Users can click on **Suggest Schemes**, and the app will automatically suggest schemes based on the user's profile.
 - Users can also click on **Notify Schemes** to receive scheme notifications on their registered email.
 - The **Download History** button allows users to download their chat history.
+
+#### My Recommendations
+- Clicking on **My Reccomendations** leads to automatic recommandations as per details in profile
+- 
+#### My Notifiactions
+- Clicking on this shows notifications , which are currently not added
+
 
 #### Detailed Scheme Information
 - For each scheme, users can get in-depth details including eligibility criteria, required documents, and benefits.
