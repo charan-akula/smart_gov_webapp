@@ -1,0 +1,10 @@
+streamlit==1.14.0
+Pillow==9.0.1
+pytesseract==0.3.9
+pandas==1.5.2
+langchain==0.0.176
+langchain-cohere==0.0.1
+langchain-community==0.0.1
+langchain-groq==0.0.1
+fpdf==1.7.2
+base64==1.0
